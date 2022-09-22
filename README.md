@@ -1,4 +1,4 @@
-Juan Fer Aispuro 👨‍💻
+Juan Fer Aispuro ⛩👺
 ==============================
 
 ## Future Game Developer 🎮🎌
