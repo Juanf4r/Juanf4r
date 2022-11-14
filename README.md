@@ -9,7 +9,7 @@ I'm new on Github, with the pass of the time i will update this page with a lot 
 Skills: English/Japanese/C++
 
 - 🔭 I’m currently studying at [Amerike University](https://amerike.edu.mx) (Guadalajara, Jalico)
-- 🌱 I’m currently learning C++ / LUAU (LUA 5.1)
+- 🌱 I’m currently learning C++ 
 - 🤔 I’m looking for help with Unity 
 - 📫 How to reach me: Juanfernand2004@hotmail.com 
 - ⚡ Fun fact: I love Cats ♥😸 
