@@ -9,9 +9,9 @@ I'm new on Github, with the pass of the time i will update this page with a lot 
 Skills: English/Japanese/C++
 
 - 🔭 I’m currently studying at [Amerike University](https://amerike.edu.mx) (Guadalajara, Jalico)
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m learning C++ 
 - 🤔 I’m looking for help with Unity 
-- 📫 How to reach me: Juanfernand2004@hotmail.com 
+- 📫 How to reach me: Juanfernand2004@hotmail.com or Juanfernand2004@gmail.com
 - ⚡ Fun fact: I love Cats ♥😸 
 
 
