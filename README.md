@@ -6,10 +6,11 @@ Juan Fer Aispuro ⛩👺
 I'm new on Github, with the pass of the time i will update this page with a lot of projects and contributions i have done in my career.
 
 
-Skills: English/Japanese/C++
+Skills: c++
+Languages: Native Spanish / English B2 Level / Japanese N5
 
 - 🔭 I’m currently studying at [Amerike University](https://amerike.edu.mx) (Guadalajara, Jalisco)
-- 🌱 I’m learning C++ 
+- 🌱 I’m learning HTML & CSS
 - 🤔 I’m looking for help with Unity 
 - 📫 How to reach me: Juanfernand2004@hotmail.com or Juanfernand2004@gmail.com
 - ⚡ Fun fact: I love Cats ♥😸 
