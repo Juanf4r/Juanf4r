@@ -7,6 +7,7 @@ I'm new on Github, with the pass of the time i will update this page with a lot 
 
 
 Skills: c++
+
 Languages: Native Spanish / English B2 Level / Japanese N5
 
 - 🔭 I’m currently studying at [Amerike University](https://amerike.edu.mx) (Guadalajara, Jalisco)
