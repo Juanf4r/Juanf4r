@@ -3,7 +3,7 @@ Juan Fer Aispuro ⛩👺
 
 ## Future Game Developer 🎮🎌
 
-I constantly use Github to upload my codes and projects but i also love resolving any kind of problem, i have a problem 😅
+I constantly use Github to upload my codes and projects but i also love resolving any kind of problem 😊
 
 
 Skills: C++
