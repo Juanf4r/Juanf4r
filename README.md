@@ -8,7 +8,7 @@ I constantly use Github to upload my codes and projects but i also love resolvin
 
 Skills: C++
 
-Languages: Native Spanish / English B2 Level / Japanese N5
+Languages: Native Spanish / English B2 Level 
 
 - 🔭 I’m currently studying at [Amerike University](https://amerike.edu.mx) (Guadalajara, Jalisco)
 - 🌱 I’m learning at this moment Python
