@@ -1,12 +1,11 @@
 Juan Fer Aispuro ⛩👺
 ==============================
 
-## Future Game Developer 🎮🎌
+## Game Developer 🎮🎌
 
 I constantly use Github to upload my codes and projects but i also love resolving any kind of problem 😊
 
-
-Skills: C++
+Skills: C++ / HTML / CSS
 
 Languages: Native Spanish / English B2 Level 
 
