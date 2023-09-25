@@ -1,4 +1,4 @@
-Juan Fer Aispuro ⛩👺
+JuanFer Aispuro ⛩👺
 ==============================
 
 ## Game Developer 🎮🎌
