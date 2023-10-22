@@ -5,7 +5,7 @@ JuanFer Aispuro ⛩👺
 
 I constantly use Github to upload my codes and projects but i also love resolving any kind of problem 😊
 
-Skills: C++ / HTML / CSS
+Skills: C++ / HTML / CSS / Unity2D
 
 Languages: Native Spanish / English C1 Level 
 
