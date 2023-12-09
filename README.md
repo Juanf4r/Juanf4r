@@ -1,7 +1,7 @@
 JuanFer Aispuro ⛩👺
 ==============================
 
-## Game Developer 🎮🎌
+## Technical Game Designer 🎮🎌
 
 I constantly use Github to upload my codes and projects but i also love resolving any kind of problem 😊
 
