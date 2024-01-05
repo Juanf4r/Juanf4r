@@ -16,4 +16,4 @@ Languages: Native Spanish / English C1 Level
 - ⚡ Fun fact: I love Cats ♥🐱‍💻 
 
 [Instagram](https://www.instagram.com/Fer_Aisps/)
-[X]([https://twitter.com/Juanf4r)
+[X](https://twitter.com/Juanf4r)
