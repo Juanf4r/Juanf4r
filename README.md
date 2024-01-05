@@ -3,7 +3,7 @@ JuanFer Aispuro ⛩👺
 
 ## Technical Game Designer 🎮🎌
 
-I constantly use Github to upload my codes and projects but i also love resolving any kind of problem 😊
+I love Video Games a lot but i love more creating them. ❤
 
 Skills: C++ / HTML / CSS / Unity2D
 
