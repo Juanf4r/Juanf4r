@@ -5,7 +5,7 @@ JuanFer Aispuro ⛩👺
 
 I love Video Games a lot but i love more creating them. ❤
 
-Skills: C++ / C# / Unity2D / HTML & CSS  
+Skills: C++ / C# / Unity / HTML & CSS  
 
 Languages: Native Spanish / English C1 Level 
 
