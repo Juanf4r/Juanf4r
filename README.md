@@ -5,9 +5,11 @@ Juan Fernando Aispuro ⛩👺
 
 I love Video Games a lot but i love more creating them. ❤
 
-Competencies: Game Design / 2D-3D-VR Game Development / Project Managment / Narrative Design  
+Competencies: Game Design / 2D-3D-VR Game Development / Project Managment / 3D Modeling  
 
 Scripting Languages: C++ / C# / Python / LUA
+
+Softwares: Unity / Unreal Engine / 3D Max 
 
 Languages: Native Spanish / English C1 Level 
 
