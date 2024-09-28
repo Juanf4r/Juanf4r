@@ -3,7 +3,8 @@ Juan Fernando Aispuro ⛩👺
 
 ## Technical Game Designer 🎮🎌
 
-I'm a Game Developer with extensive experience for over 2 years. My expertise is related to Game Development, I love Video Games a lot but i love more creating them. ❤
+I'm a Game Developer with Profesional Experience for over 1 year. 
+My expertise is related to Game Development, I love Video Games a lot but I love more creating them. ❤
 
 Competencies: Game Design / 2D-3D-VR Game Development / Project Managment / 3D Modeling  
 
