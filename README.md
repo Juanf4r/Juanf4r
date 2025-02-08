@@ -8,7 +8,7 @@ My expertise is related to Game Development, I love Video Games a lot but I love
 
 Competencies: Game Design / 2D-3D-VR Game Development / Project Managment / 3D Modeling  
 
-Scripting Languages: C++ / C# / Python / LUA
+Scripting Languages: C++ / C# / LUA
 
 Softwares: Unity / Unreal Engine / Roblox Studio / 3D Max 
 
