@@ -10,7 +10,7 @@ Competencies: Game Design / 2D-3D-VR Game Development / Project Managment / 3D M
 
 Scripting Languages: C++ / C# / LUA
 
-Softwares: Unity / Unreal Engine / Roblox Studio / 3D Max 
+Softwares: Unity / Unreal Engine / 3D Max 
 
 Languages: Native Spanish / English C1 Level 
 
